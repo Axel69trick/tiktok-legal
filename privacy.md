@@ -1,0 +1,4 @@
+   Présentation Cette application est un outil à usage strictement personnel développé dans le but d'automatiser la republication de contenus vidéo sur le compte TikTok propre de son développeur.
+Collecte et traitement des données Données d'utilisateurs tiers : Aucune. L'application ne collecte, ne traite, ne stocke et ne partage aucune donnée personnelle provenant d'utilisateurs tiers. Données TikTok : L'application utilise uniquement les jetons d'accès (access tokens) nécessaires à l'authentification auprès de l'API TikTok pour publier du contenu sur le compte du propriétaire.
+Conservation des données Aucune donnée personnelle ni donnée relative à des tiers n'est conservée sur un serveur externe ou une base de données.
+Contact Pour toute question concernant cet outil interne, vous pouvez contacter le développeur à l'adresse : ⁠cliptiktokcompte1@gmail.com
